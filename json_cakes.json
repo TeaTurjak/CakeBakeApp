@@ -1,0 +1,93 @@
+{
+  "error": false,
+  "cakes": [
+    {
+      "Image": "https://bigoven-res.cloudinary.com/image/upload/d_recipe-no-image.jpg,t_recipe-256/the-best-vanilla-cake.jpg",
+      "CakeId": "Vanilla cake",
+      "Difficulty": "easy",
+      "Indgredients": "175 g softened butter, 175 g caster sugar, 3 large eggs, 175 g self-raising flour, 1 tsp baking powder, 1 tsp vanilla extract, pinch of salt",
+      "Recipe": "Heat the oven to 180°C. Lightly grease a round cake tin with a little extra butter and cut a piece of greaseproof paper to fit the base of the tin. Put all the ingredients into a large mixing bowl and beat with a wooden spoon or a hand-held mixer for 1 minute. It's important not to beat the batter too much - just long enough to make it smooth. Pour or spoon the mixture into the tin, smooth the top and bake on the middle shelf of the oven for about 50 minutes. The cake is cooked when it looks well risen and golden. Another test is to insert a skewer into the centre of the cake - it should come out clean. Let the cake sit in the tin for 5 minutes, then gently run a knife around the edge and turn the cake out onto a wire rack to cool. Serve dusted with icing sugar."
+    },
+
+    {
+      "Image": "https://houseofnasheats.com/wp-content/uploads/2020/06/best-homemade-brownie-recipe-13.jpg",
+      "CakeId": "Brownies",
+      "Difficulty": "easy",
+      "Indgredients": "10 tablespoons salted butter melted, 1 cup granulated sugar, 2 large eggs, 2 teaspoons vanilla extract, 1/2 cup melted milk chocolate chips, 3/4 cup flour, 1/4 cup unsweetened cocoa powder, 1/2 teaspoon salt, 1 cup milk chocolate chips",
+      "Recipe": "Preheat oven to 175° C. Line a metal pan with parchment paper. Pour melted butter into a large mixing bowl. Whisk in sugar by hand until smooth, 30 seconds. Add in eggs and vanilla extract. Whisk 1 minute. Whisk in melted chocolate until combined and smooth. Use a rubber spatula to stir in flour, cocoa powder, and salt until just combined. Stir in whole chocolate chips. Pour into prepared pan and smooth out. Bake in the preheated oven for 30 minutes. Let cool in pan 30 minutes before slicing."
+    },
+
+    {
+      "Image": "https://i.pinimg.com/originals/2f/33/58/2f3358570ab88037a4ad330f15bc8a2c.jpg",
+      "CakeId": "Chocolate muffins",
+      "Difficulty": "easy",
+      "Indgredients": "125 g plain flour, 25 g cocoa powder, 1 teaspoon baking powder, 1 large egg, 60 g caster sugar, 2 tablespoons vegetable oil, 100 ml whole milk, 50 g chocolate chips (optional), 100 g icing sugar",
+      "Recipe": "Heat the oven to 180° C. Line a muffin tin with six muffin cases. Sieve the flour, cocoa and baking powder into a medium bowl. Mix together the egg, sugar, oil and milk together in a jug, then gradually pour into the dry ingredients (add chocolate chips now to make double chocolate muffins, if you like) and mix until combined. Spoon the mixture evenly into the cake cases and bake for 20-25 mins until a skewer inserted into the middle comes out clean. Remove from the oven and leave to cool. Meanwhile, gradually mix ½-1 tbsp water into the icing sugar until you have a loose consistency that's not too runny. Drizzle the icing over the muffins once cool. "
+    },
+
+    {
+      "Image": "https://domesticgothess.com/wp-content/uploads/2020/06/vegan-chocolate-vanilla-marble-cake.jpg",
+      "CakeId": "Marble Cake",
+      "Difficulty": "easy",
+      "Indgredients": "1 ¾ cup all purpose flour, 1 ½ tsp baking powder , ½ tsp salt , ½ cup corn oil,1 ½ cup sugar , 4 eggs, 1 tsp vanilla extract, ½ cup milk, 3 tbsp cocoa, 1 tbsp milk ",
+      "Recipe": "Preheat your oven to 175° C, grease a nonstick loaf tin. Combine the first three ingredients in a bowl, set aside. Use a mixing bowl to whip the oil, sugar and eggs together on high speed for about two minutes. The mixture will be a creamy pillowy yellow. Add the vanilla, beat for 30 seconds to combine. Alternately add the flour and milk to the bowl in two batches and mix until just combined. Put a cup of the batter into a small bowl, add the 3 tbsp cocoa and 1 tbsp milk and mix until just combined. The batter for this cake is thin, so carefully add it to the loaf pan, alternating between dollops of vanilla and chocolate batter. Use a long skewer or a knife to swirl the batter together. Bake for an hour or until a toothpick inserted in the middle comes out clean."
+
+    },
+
+    {
+      "Image": "https://therecipecritic.com/wp-content/uploads/2018/11/Butter-Pecan-Cookie-Recipe-1-of-1.jpg",
+      "CakeId": "Butter pecan Cookies",
+      "Difficulty": "medium",
+      "Indgredients": "80 g pecans, chopped, 112 g unsalted butter, room temperature, 70 g sugar, 1 teaspoon vanilla extract, 1/8 teaspoon salt, 140 g all-purpose flour",
+      "Recipe": "Make cookie dough: With an electric mixer, beat the butter for about a minute. Add 1/3 cup sugar and beat until light, about 1 minute more. Beat in vanilla, salt, and flour, scraping down sides of bowl, just until dough comes together. Fold in pecans. Roll into balls: Separate dough into 12 pieces; shape dough into walnut-sized balls. Place, 3 inches apart, on a baking sheet. Gently flatten with the bottom of a glass (reshape sides if necessary). Bake at 175°C until golden brown, rotating sheet halfway through, about 16 minutes. Cool cookies on a wire rack."
+
+    },
+
+    {
+      "Image": "https://i.pinimg.com/originals/50/c6/77/50c67738f3db4f5f116d0ea2a26c4130.jpg",
+      "CakeId": "Honey cake",
+      "Difficulty": "medium",
+      "Indgredients": "cooking spray, 2 cups all-purpose flour, 1/2 tsp salt, 1/2 tsp baking soda, 1/2 cup butter, softened 1 cup honey, 3 large eggs, 1/4 tsp almond extract, 1/2 cup sour cream, powdered sugar, for serving",
+      "Recipe": "Preheat oven to 175° C. Line a round cake pan with parchment and grease with cooking spray. In a large bowl, whisk together flour, salt, and baking soda. In another large bowl, using a hand mixer, beat butter and honey together until butter is smooth and mixture is light and creamy. Add eggs, one at a time, beating well after each addition, then add almond extract. Add dry ingredients and beat until just barely combined, then add sour cream and beat until just combined. Pour batter into prepared cake pan and bake until a toothpick inserted in the middle comes out clean, 35 minutes. Let cool. Serve as is or with a dusting of powdered sugar. "
+
+    },
+
+    {
+      "Image": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg",
+      "CakeId": "Apple Pie",
+      "Difficulty": "medium",
+      "Indgredients": "1/2 cup sugar, 1/2 cup packed brown sugar, 3 tablespoons flour, 1 teaspoon ground cinnamon, 1/4 teaspoon ground ginger, 1/4 teaspoon ground nutmeg, 6 to 7 cups thinly sliced peeled tart apples, 1 tablespoon lemon juice, pastry for double-crust pie, 1 tablespoon butter, 1 large egg white, additional sugar",
+      "Recipe": "In a small bowl, combine the sugars, flour and spices; set aside. In a large bowl, toss apples with lemon juice. Add sugar mixture; toss to coat. Line a pie plate with bottom crust; trim even with edge. Fill with apple mixture; dot with butter. Roll remaining crust to fit top of pie; place over filling. Trim, seal and flute edges. Cut slits in crust. Beat egg white until foamy; brush over crust. Sprinkle with sugar. Cover edges loosely with foil. Bake at 200° C for 25 minutes. Remove foil and bake until crust is golden brown and filling is bubbly, 20-25 minutes longer. Cool on a wire rack."
+
+    },
+
+    {
+      "Image": "https://www.cookingclassy.com/wp-content/uploads/2019/11/cheesecake-8.jpg",
+      "CakeId": "Cheesecake",
+      "Difficulty": "hard",
+      "Indgredients": "nonstick cooking spray, for greasing, 200 g graham cracker, 400 g sugar, plus 1 tablespoon, divided, 5 tablespoons unsalted butter, melted, 905 g cream cheese, room temperature, ½ cup heavy cream, 2 cups sour cream, 5 tablespoons all-purpose flour, 1 pinch salt, 1 vanilla bean, 4 large eggs, boiling water, for baking, mixed berry, for serving",
+      "Recipe": "Preheat the oven to 180˚C. Grease a 25 cm springform pan with nonstick spray. Line the inside edges of the pan with parchment paper. In the bowl of a food processor, combine the graham crackers, 1 tablespoon of sugar, and the melted butter. Pulse to combine until the texture is similar to wet sand. Press the graham cracker crumbs into the prepared pan, using a measuring cup to compact in even layer. Bake for 8-10 minutes, until golden brown. Transfer to a wire rack and let cool to room temperature. Once cool, line the sides of the springform pan with parchment paper. In a large bowl, combine the cream cheese, remaining 2 cups (400 G) of sugar, and the salt. Using an electric hand mixer, blend until well-combined and fluffy. Add the heavy cream and beat to incorporate. Add the sour cream, flour, salt, and vanilla bean seeds, and beat to combine. Add the eggs, 1 at a time, and mix until fully combined, making sure not to over-beat. The mixture should be smooth and creamy. Pour the cream cheese mixture into the cooled crust. Wrap the outside of the springform pan tightly with foil and place the pan in a large baking dish. Fill the dish with 1 inch (2 cm) of boiling water. Gently transfer the baking dish to the oven and bake for 1 hour. Without opening the oven door, turn off the heat and let the cheesecake rest for 1 hour. Remove the springform pan from the baking dish and unwrap the foil. Run a paring knife gently around the outside of the cheesecake to loosen it from the sides of the pan. Cover the pan with plastic wrap and transfer to the refrigerator overnight.  Remove the cheesecake from the refrigerator and release the springform pan. Remove the parchment paper lining. Top with fresh berries, if desired. Dip a knife into hot water for clean slices, then slice and serve."
+
+    },
+
+    {
+      "Image": "https://2.bp.blogspot.com/-QCkdWQeWB9k/VWODM_L8vEI/AAAAAAAA1gE/_aNdEocxeJs/s1600/DSC_0059%2B%25283%2529.JPG",
+      "CakeId": "Madjarica",
+      "Difficulty": "hard",
+      "Indgredients": "Cake layers: 600 g all-purpose flour, 2 egg whites, 180 g sour cream, 1 tsp baking powder, 180 g sugar, 180 g butter. Filling: 4 cups milk, 5 tbsp all-purpose flour, 5 tbsp cocoa powder,1 tsp vanilla extract, 200 g sugar, 50 g dark chocolate, 180 g butter, 1 tbsp rum. Glaze: 100 g dark chocolate, 3 tbsp oil, 50 g butter",
+      "Recipe": "Prepare the filling first. Cook milk with sugar and vanilla until it boils. Separate one part of milk and whisk it with cocoa and flour. Add the mixture into the boiling milk. Add chocolate and cook, stirring constantly, until it thickens. Remove from heat and stir in butter and rum immediately. Cover with plastic wrap and let cool completely. For the cake layers, make the dough. Beat butter with sugar, egg whites and sour cream until fluffy. Add sifted flour and baking powder and knead into a dough. Separate it into six equal parts and roll it out into a rectangles, between two sheets of parchment paper. Roll it out as thin as possible and transfer, together with the bottom parchment paper onto a rectangle baking tray. Preheat oven to 180 C. Bake layers one by one, each for 8 minutes. They must stay pale. Let them cool. You can press them with something in order to flatten them out as they cool. For the glaze, melt chocolate with butter and oil. Assemble the cake: place first layer into a baking tray and spread one part of the filling evenly over it. Cover with the second layer and alternate until you finish. You need to end with the dough layer. Pour hot chocolate glaze over it and leave the cake in the fridge overnight. The next day, cut into small rectangles and serve."
+
+    },
+
+    {
+      "Image": "https://assets.bonappetit.com/photos/57af6bc5f1c801a1038bd2de/master/pass/cream-puffs.jpg",
+      "CakeId": "Cream Puffs",
+      "Difficulty": "hard ",
+      "Indgredients": "6 large eggs, 150g butter, 150g bread flour, 1 cup water; cream: 4 cups milk, 6 eggs, 12 tablespoons sugar, 2 bags of  Jell-O vanilla cook and serve pudding (no instant pudding)",
+      "Recipe": "Preheat the oven to 220° C.  Line baking sheet with parchment paper. Heat the butter in the pan and add water. Bring it to boil and add flour while stirring. Remove it from the heat before it becomes brown. Beat 6 egg yolks and 6 egg whites separately. Mix everything together (eggs and dough) with wooden spoon. Make about 40 dough balls (1 tablespoon size) and put them on the baking sheet using spoon or pastry bag. You need 1 large baking sheets, or 2 smaller ones. You should make some space between balls since they will rise in the oven. Bake the balls for 7 min, then reduce temperature to 200° C and bake for another 13 min. Balls are done when they are golden brown and airy in the center. Cut the balls in half when they are cooled down. Make the cream filling:  mix 6 eggs with sugar, pudding and 1/2 cup of milk. When the rest of milk (3 and 1/2 cups) starts to boil add the previous mixture stirring constantly on low heat. When cream is tick enough remove it from the heat. You should chill it in refrigerator. Fill balls with cooled cream using pastry bag. Caps go on the top. Sprinkle the puffs with the powdered sugar. "
+
+    }
+
+  ]
+
+}
