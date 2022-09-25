@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CakeBake</string>
+    <string name="first_page_text">Welcome</string>
+    <string name="btn_lets_bake">LET"'"S BAKE</string>
+    <string name="fragment_timer_title">Timer</string>
+    <string name="fragment_recipes_title">Recipes</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="separation">:</string>
+    <string name="search_bar_hint">Search recipes...</string>
+    <string name="btn_search">SEARCH</string>
+    <string name="btn_timer">Timer</string>
+    <string name="btn_recipes">Cake recipes</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="content_description">First page image</string>
+    <string name="url_string">https://jsonkeeper.com/b/TK3H</string>
+    <string name="cake_in_list">CakeName: </string>
+    <string name="cake">cake</string>
+    <string name="difficulty_in_list">Difficulty: </string>
+    <string name="difficulty">difficulty</string>
+    <string name="ingredients_in_list">Ingredients: </string>
+    <string name="ingredients">ingredients</string>
+    <string name="recipe_in_list">Recipe: </string>
+    <string name="recipe">recipe</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecipesActivity"
+    android:padding="@dimen/dimen_recipes_padding"
+    android:background="@drawable/gradient_linear">
+
+
+   <LinearLayout
+       android:id="@+id/nav_btn_line_recipes"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:layout_alignParentTop="true">
+
+      <Button
+          android:id="@+id/btn_timer_change"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="@string/btn_timer">
+      </Button>
+
+      <Button
+          android:id="@+id/btn_recipes_nothing"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:text="@string/btn_recipes">
+      </Button>
+
+   </LinearLayout>
+
+   <TextView
+       android:id="@+id/fragment_recipes_title"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:text="@string/fragment_recipes_title"
+       android:textSize="@dimen/dimen_recipes_title_size"
+       android:layout_below="@id/nav_btn_line_recipes"
+       />
+
+   <LinearLayout
+       android:id="@+id/search_btn_line_recipes"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:layout_below="@id/fragment_recipes_title"
+       android:orientation="horizontal"
+       android:layout_margin="@dimen/dimen_for_search">
+
+      <EditText
+          android:id="@+id/search_bar"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:hint="@string/search_bar_hint"
+          />
+
+      <Button
+          android:id="@+id/btn_search"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/btn_search"
+         />
+
+   </LinearLayout>
+
+   <Button
+       android:id="@+id/btn_recipe_exit"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/btn_exit"
+       android:layout_alignParentBottom="true"
+       android:layout_centerHorizontal="true"
+       android:gravity="center"
+       android:background="@color/pink_bg"
+       />
+
+      <androidx.recyclerview.widget.RecyclerView
+          android:id="@+id/scrool_recipes"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_below="@id/search_btn_line_recipes"
+          android:layout_above="@+id/btn_recipe_exit"
+          android:layout_marginBottom="@dimen/dimen_for_recycler"
+          >
+      </androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_first_page_text_pos">75dp</dimen>
+    <dimen name="dimen_first_page_text_size">30dp</dimen>
+    <dimen name="dimen_first_image_size">200dp</dimen>
+    <dimen name="dimen_first_btn_pos">80dp</dimen>
+    <dimen name="dimen_timer_btn_exit">80dp</dimen>
+    <dimen name="dimen_first_btn_exit">20dp</dimen>
+    <dimen name="dimen_timer_title_pos">20dp</dimen>
+    <dimen name="dimen_timer_title_size">30dp</dimen>
+    <dimen name="dimen_recipes_title_pos">20dp</dimen>
+    <dimen name="dimen_recipes_title_size">30dp</dimen>
+    <dimen name="dimen_recipes_padding">8dp</dimen>
+    <dimen name="dimen_for_search">10dp</dimen>
+    <dimen name="dimen_for_recycler">4dp</dimen>
+    <dimen name="dimen_card_layout">10dp</dimen>
+    <dimen name="dimen_item_padding">5dp</dimen>
+    <dimen name="dimen_image_list_square">100dp</dimen>
+    <dimen name="dimen_image_padding">15dp</dimen>
+</resources>
